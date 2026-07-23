@@ -1,8 +1,6 @@
 # ApexPlanet Web Development Internship
 
-A centralized repository containing all projects completed during my **Full Stack Web Development Internship** at **ApexPlanet Software Pvt. Ltd.**
-
-During this internship, I gained hands-on experience in **front-end and back-end web development** by building responsive web applications, implementing CRUD operations, integrating databases, and developing dynamic full-stack applications using **PHP** and **MySQL**.
+During this internship, I gained hands-on experience in front-end and back-end web development by building responsive web applications, implementing CRUD operations, integrating databases, and developing dynamic full-stack applications using HTML, CSS, JavaScript, Bootstrap, PHP, and MySQL.
 
 ---
 
@@ -103,3 +101,7 @@ Built a full-stack E-Learning Portal to manage online learning resources and use
 **Role:** Full Stack Web Developer Intern  
 **Mode:** Virtual  
 **Duration:** April 2026 – June 2026
+
+---
+
+⭐ Thank you for visiting this repository. Feel free to explore each project to view the complete implementation and source code.
